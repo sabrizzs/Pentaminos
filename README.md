@@ -1,4 +1,5 @@
 # Pentaminos
+## EP1 - MAC0320 Algoritmos e Estruturas de Dados II
 *Algoritmo que resolve o problema de preencher tabuleiros com pentaminós, utilizando backtrack implementado com uma pilha.*
 
 ![image](https://user-images.githubusercontent.com/93349105/169685500-e06030d0-8a59-471a-a415-905dbd98244b.png)
